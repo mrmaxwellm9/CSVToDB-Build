@@ -7,7 +7,7 @@ Basic program to convert CSV files to Database files.
 To use, download this repository and rune the CSVToDB executable.
 
 The program will open and should appear similar to the image below.
-![alt text](https://raw.githubusercontent.com/mrmaxwellm9/images/main/CSVToDB%20picture.png?token=GHSAT0AAAAAACEFFZBT4JR26XBSUTXOEZDKZFW2MWQ "CSVToDB Picture")
+![CSVToDB picture](https://github.com/mrmaxwellm9/CSVToDB-Build/assets/130167736/2a73b9d5-57c2-4ebd-9412-73f6000f549f)
 
 Type the desired Table Name in the "Table Name" field.
 Type the desired database filename in the "Database" field.
